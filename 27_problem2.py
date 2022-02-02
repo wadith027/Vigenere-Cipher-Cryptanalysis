@@ -1,6 +1,6 @@
 __author__ = "Shadman Wadith"
 __copyright__ = "Copyright 2022, Cryptography and Network Security Lab Project"
-__license__ = "Apache"
+__license__ = "Apache-2.0"
 __version__ = "1.0"
 __email__ = "wadith.24csedu.027@gmail.com"
 __status__ = "Production"
