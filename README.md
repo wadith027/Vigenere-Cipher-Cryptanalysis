@@ -16,8 +16,8 @@ python 27_problem2.py
 ```
 
 ## Usage
-27_problem1.py is used for encrypting the plain text with the given key in key.txt
-27_problem2.py is used for predicting the key from the given ciphertext using Kasiski's algorithm.
+27_problem1.py is used for encrypting the plain text with the given key in key.txt.,
+27_problem2.py is used for predicting the key from the given ciphertext using Kasiski's algorithm.,
 Change the input.txt to use different plain text. Use larger plain text for cracking an accurate key from the given cipher text. To use a different key, just change the key.txt file.
 
 
